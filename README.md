@@ -1,5 +1,5 @@
 
-<p align="center">Hi, I'm Caique, a 21-year-old full-stack developer passionate about technology. I love creating innovative solutions using TypeScript, Java, JavaScript, CSS, HTML, Python and MySQL. Always looking for new challenges and learning. Let's build something amazing together!.</p>&nbsp;
+<p align="center">Hi, I'm Caique, a 21-year-old full-stack developer passionate about technology. I love creating innovative solutions using Python, PHP, JavaScript, React, TypeScript, Node.JS, Java, Mysql, MongoDB. Always looking for new challenges and learning. Let's build something amazing together!.</p>&nbsp;
 
 ## My Skills
 
