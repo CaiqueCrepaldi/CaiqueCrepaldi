@@ -1,5 +1,7 @@
 
-<p align="center">Hi, I'm Caique, a 21-year-old full-stack developer passionate about technology. I love creating innovative solutions using Python, PHP, JavaScript, React, TypeScript, Node.JS, Java, Mysql, MongoDB. Always looking for new challenges and learning. Let's build something amazing together!.</p>&nbsp;
+<p align="center">Full-stack Developer focused on building web applications with JavaScript, TypeScript, Node.js, React, Python, Java and relational/non-relational databases.
+
+I develop practical projects involving authentication, CRUD operations, dashboards, database integration and responsive interfaces..</p>&nbsp;
 
 ## My Skills
 
